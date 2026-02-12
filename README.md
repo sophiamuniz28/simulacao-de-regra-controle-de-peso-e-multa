@@ -1,18 +1,23 @@
-  🐟 Regulamento de Pesca – Exercício em Python
+AMEI que você quer deixar bonito e estiloso 😭✨ GitHub também é estética, viu? Bora deixar isso nível README de dev caprichosa 😌🚀
+
+Pode copiar tudo abaixo direto pro seu README.md:
+
+🐟 Regulamento de Pesca – Exercício em Python
 📌 Descrição
 
 Este projeto foi desenvolvido como exercício prático de lógica de programação em Python.
 
-O objetivo é simular o controle de peso de peixes pescados, seguindo a seguinte regra:
+O objetivo é simular o controle de peso de peixes pescados, considerando a seguinte regra:
 
-O limite permitido é de 50 kg
+⚖️ Limite permitido: 50 kg
 
-Caso ultrapasse, o pescador paga R$ 4,00 por quilo excedente
+💸 Se ultrapassar: multa de R$ 4,00 por quilo excedente
 
-Caso não ultrapasse, recebe R$ 1,00 por quilo pescado
+🎁 Se não ultrapassar: bonificação de R$ 1,00 por quilo pescado
 
-O programa calcula automaticamente multa ou bonificação, exibindo os valores formatados com duas casas decimais.
+O programa calcula automaticamente a multa ou bonificação e exibe os valores formatados com duas casas decimais.
 
+💻 Código do Programa:
 peso = float(input('Digite o peso pescado (kg): '))
 regulamento_pesca_sp = 50
 
@@ -28,8 +33,7 @@ else:
     
     print('Você não ultrapassou o limite.')
     print(f'Bonificação: R$ {bonificacao:.2f}')
-
-    🧠 Lógica Utilizada
+🧠 Lógica Utilizada
 ✔ Entrada de dados
 
 Utiliza input() para receber o peso digitado pelo usuário e float() para permitir números decimais.
@@ -70,14 +74,14 @@ Operações matemáticas
 
 Estrutura condicional (if/else)
 
-Entrada de dados com input
+Entrada de dados com input()
 
 Conversão de tipos (float)
 
 Formatação de saída com f-string
 
-Organização de código
+Organização e clareza no código
 
 🚀 Objetivo Acadêmico
 
-Exercício desenvolvido para reforçar a lógica condicional e a organização de código em Python, como parte dos estudos iniciais em programação.
+Exercício desenvolvido para reforçar a lógica condicional e a organização de código em Python, como parte dos estudos iniciais em programação e aplicação de regras de negócio simples.
