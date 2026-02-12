@@ -1,8 +1,5 @@
-AMEI que você quer deixar bonito e estiloso 😭✨ GitHub também é estética, viu? Bora deixar isso nível README de dev caprichosa 😌🚀
-
-Pode copiar tudo abaixo direto pro seu README.md:
-
 🐟 Regulamento de Pesca – Exercício em Python
+
 📌 Descrição
 
 Este projeto foi desenvolvido como exercício prático de lógica de programação em Python.
